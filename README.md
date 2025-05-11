@@ -13,9 +13,6 @@ I'm a PhD in Experimental High Energy Physics with a strong foundation in resear
    - Highlights: Achieved strong classification performance with limited data by leveraging pre-trained models; implemented a full pipeline from loading and transforming images to model evaluation.
 
 
-
-
-
 2. [Movie Recommendation System](https://github.com/PriyankaSett/movie_recommendation)
    
     - Objective: Recommend movies using the TMDB dataset.
@@ -39,7 +36,7 @@ I'm a PhD in Experimental High Energy Physics with a strong foundation in resear
 
    - Techniques:  Data analysis, classification algorithms.
 
-  - Highlights: Applied machine learning to astrophysical data, bridging the gap between physics and data science.
+   - Highlights: Applied machine learning to astrophysical data, bridging the gap between physics and data science.
 
 
 5. [Predicting Instagram Likes](https://github.com/PriyankaSett/predicting_instagram_likes)
@@ -64,7 +61,7 @@ I'm a PhD in Experimental High Energy Physics with a strong foundation in resear
 - [Scientific Publications](https://github.com/PriyankaSett/List-of-Publication):   
 Co-authored several research papers in high-energy physics, including studies on strange particle behavior in heavy ion collisons, particle multiplicity distributions in p+p and e+e collisions using Weibull function. 
 
-- Project Documentation: 
+- Project Documentation:
 Each GitHub repository includes comprehensive README files and Jupyter notebooks with step-by-step explanations, making complex analyses understandable.
 
 # Skills & Tools
@@ -85,7 +82,7 @@ Each GitHub repository includes comprehensive README files and Jupyter notebooks
 # Contact 
 [E-mail](sett.priyanka@gmail.com)
 
-[Git Hub]()
+[Git Hub](https://github.com/PriyankaSett)
    
 
 
